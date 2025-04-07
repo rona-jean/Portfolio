@@ -13,4 +13,4 @@ https://bootstrapmade.com/personal-free-resume-bootstrap-template/
 
 ## Portfolio
 
-In my website you will see a page which is name "Portfolio" you will see the dummy projects that I have made, and also want to say that I added a code to it which is how the images work with the links.
+In my website you will see a page which is name "Portfolio" you will see the dummy projects that I have made, and also want to say that I made the code which is how when you click the image you will be directed to the links attached to it.
